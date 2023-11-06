@@ -7,12 +7,9 @@
 5. Good design traits, simple and consistency
 6. Tell the story
 
-![](1.png)
-![](2.png)
-![](33.png)
-
-![](32.png)
-![](3.png)
+![](assets/1.png)
+![](assets/2.png)
+![](assets/3.png)
 
 
 --
