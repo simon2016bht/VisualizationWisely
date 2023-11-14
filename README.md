@@ -7,6 +7,14 @@
 5. Good design traits, simple and consistency
 6. Tell the story
 
+
+
+
+
+---
+
+Selected samples:
+![](assets/boxplot.png)
 ![](assets/1.png)
 ![](assets/2.png)
 ![](assets/3.png)
