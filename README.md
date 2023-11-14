@@ -15,14 +15,13 @@
 
 Selected samples:
 
-
 <img src="assets/boxplot.png" width="400">
 
-![](assets/boxplot.png)
-![](assets/1.png)
-![](assets/2.png)
-![](assets/3.png)
+<img src="assets/1.png" width="400">
 
+<img src="assets/2.png" width="400">
+
+<img src="assets/3.png" width="400">
 
 --
 
