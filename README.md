@@ -14,6 +14,8 @@
 ---
 
 Selected samples:
+<img src="assets/boxplot.png" width=50% height=50%>
+
 ![](assets/boxplot.png)
 ![](assets/1.png)
 ![](assets/2.png)
