@@ -15,13 +15,15 @@
 
 Selected samples:
 
-<img src="assets/boxplot.png" width="400">
 
 <img src="assets/1.png" width="400">
 
 <img src="assets/2.png" width="400">
 
 <img src="assets/3.png" width="400">
+
+<img src="assets/boxplot.png" width="400">
+
 
 --
 
