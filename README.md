@@ -29,7 +29,7 @@ Selected samples:
 
 
 Reference:
-- Radovan Kavicky/2022-07-01 Making Economist Style Plots in Matplotlib
+- Robert Ritz/2022-01-26 Making Economist Style Plots in Matplotlib
 - Economist
 - Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic
 - Matplotlib API Reference
