@@ -22,7 +22,6 @@ Selected samples:
 
 <img src="assets/3.png" width="400">
 
-<img src="assets/boxplot.png" width="400">
 
 
 --
